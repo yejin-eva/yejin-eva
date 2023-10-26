@@ -27,7 +27,6 @@
 | QT Designer: Project development    | Sketchup: Project development       |      |
 |     | GIS: Project development       |       |
 |     | Lumion: Rendering       |       |
-
 <br>
 
 ### Activities
