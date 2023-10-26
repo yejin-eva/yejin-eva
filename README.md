@@ -55,7 +55,7 @@
 > 한동영어캠프 SA (Student Assistant) <br>
 
 
-
+![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejin-eva&show_icons=true&theme=buefy)
 
 
 <!--
