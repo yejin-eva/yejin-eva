@@ -19,7 +19,7 @@
 ### 📚 Technical Stack
 
 | Computer | Architecture / Design | Language |
-|     :---:    |     :---:      |          ---: |
+|     :---    |     :---      |          :--- |
 | Unity: Game Development   | Illustrator: Created panels and presentation materials     | English: TOEIC 985 (2022.06)    |
 | C, C#, C++: Project development    | Photoshop: Created panels and presentation mateirlas      | English: TOEFL 114 (2017.03)     |
 | Python: Hosted Python education camp    | Premiere: Basic video editing       | Russian: Communicable      |
