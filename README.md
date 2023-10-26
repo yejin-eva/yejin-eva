@@ -1,9 +1,9 @@
 # Hi there 👋
 
-For more projects and explanations, visit: <a href="https://www.notion.so/About-Me-c1c42421ff1e4c0cae1f0dd59649e37d?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a><br>
-For demonstration and explanation of developed game: <a href="https://www.youtube.com/watch?v=DUV6YE9AAIE" target="_blank"><img src="https://img.shields.io/badge/Explanation_Video-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a><br>
-For demonstration of developed game: <a href="https://www.youtube.com/watch?v=SqY8MXK_aIw" target="_blank"><img src="https://img.shields.io/badge/Demonstration_Video-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a><br>
-For demonstration of developed website: <a href="https://youtu.be/SLMIAWHcuYE" target="_blank"><img src="https://img.shields.io/badge/Web_Demonstration-302683?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<a href="https://www.notion.so/About-Me-c1c42421ff1e4c0cae1f0dd59649e37d?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> For more projects and explanations <br>
+<a href="https://www.youtube.com/watch?v=DUV6YE9AAIE" target="_blank"><img src="https://img.shields.io/badge/Explanation_Video-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a> For demonstration and explanation of developed game <br>
+<a href="https://www.youtube.com/watch?v=SqY8MXK_aIw" target="_blank"><img src="https://img.shields.io/badge/Demonstration_Video-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a> For demonstration of developed game <br>
+<a href="https://youtu.be/SLMIAWHcuYE" target="_blank"><img src="https://img.shields.io/badge/Web_Demonstration-302683?style=flat-square&logo=HTML5&logoColor=white"/></a> For demonstration of developed website
 
 ### Basic Information
 
