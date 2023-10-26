@@ -21,22 +21,64 @@
 <div class="row">
   <div class="column">
     ### 컴퓨터 <br>
-**Unity**
+
+- **Unity**
+    
     프로젝트 제작 경험 <br>
-**C, C#, C++**
+    
+- **C, C#, C++**
+    
     프로젝트 제작 경험 <br>
-**Python**
+    
+- **Python**
+    
     파이썬 교육 캠프 주최 <br>
-**Html, CSS, Javascript**
+    
+- **Html, CSS, Javascript**
+    
     교육용 웹 제작 경험 <br>
-**QT Designer**
+    
+- **QT Designer**
+    
     프로젝트 제작 경험 <br>
   </div>
   <div class="column">
+    ### 건축 / 디자인 <br>
+
+- **Adobe Illustrator**
     
+    판넬 및 발표 자료 제작 <br>
+    
+- **Adobe Photoshop**
+    
+    판넬 및 발표 자료 제작 <br>
+    
+- **Adobe Premiere**
+    
+    기본 영상 편집 <br>
+    
+- **Revit**
+    
+    프로젝트 제작 경험 <br>
+    
+- **Sketchup**
+    
+    프로젝트 제작 경험 <br>
+    
+- **GIS**
+    
+    프로젝트 진행 경험 <br>
+    
+- **Lumion**
+    
+    렌더링 가능 <br>
   </div>
   <div class="column">
-    
+    ### 언어
+
+- 영어 TOEIC 985 (2022.06 취득) <br>
+- 영어 TOEFL 114 (2017.03 취득) <br>
+- 러시아어 생활언어 가능 <br>
   </div>
 </div>
 
