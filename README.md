@@ -26,7 +26,7 @@
 | Html, CSS, Javascript: Developed educational web service    | Revit: Project development       |       |
 | QT Designer: Project development    | Sketchup: Project development       |      |
 |     | GIS: Project development       |       |
-| QT Designer: Project development    | Lumion: Rendering       |       |
+|     | Lumion: Rendering       |       |
 
 
 
