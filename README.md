@@ -34,25 +34,17 @@
 
 > ICT창업학부 임원단 사업장 <br>
 > Service Presso 학회 <br>
-> 선교축제 스태프 <br>
 > ITM유이화 건축사무소 인턴 <br>
 > 총학생회 글로벌국 국장 <br>
-> UNITWIN 배워서 남주자 캠프 근로학생 <br>
 > 총학생회 선거캠프 글로벌국 파트장 <br>
 > Future City Smart Design for Post-Pandemic World 스폰서 선정 최우수 상 <br>
 > BIM Awards <br>
-> 생활체육 조교 <br>
 > SEEBIM 학회 <br>
-> Design Camp 학생 스태프 및 참여 <br>
 > 2020년 산학프로젝트 성과 발표회 우수상 <br>
 > 서덕수교수님 연구원 <br>
-> 국제개발협력대학원 외국인 석사과정 학생 한국생활 도우미 <br>
 > BIM Camp 참여 & 1등 수상 <br>
 > HIA (Handong Institute of Architecture) 학회 <br>
-> RC 팀 부팀장 <br>
-> 중앙아트홀 (포항문화재단) 봉사 <br>
 > 천풍해세 동아리 회장 <br>
-> 한동영어캠프 SA (Student Assistant) <br>
 
 
 ![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejin-eva&show_icons=true&theme=buefy)
