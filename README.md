@@ -45,6 +45,7 @@
 > HIA (Handong Institute of Architecture) 학회 <br>
 > 천풍해세 동아리 회장 <br>
 
+<br>
 
 ![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejin-eva&show_icons=true&theme=graywhite)
 
