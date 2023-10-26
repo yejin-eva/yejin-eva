@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.notion.so/About-Me-c1c42421ff1e4c0cae1f0dd59649e37d?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+<a href="https://www.notion.so/About-Me-c1c42421ff1e4c0cae1f0dd59649e37d?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-3DDC84?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 
 <!--
