@@ -47,7 +47,7 @@
 > 천풍해세 동아리 회장 <br>
 
 
-![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejin-eva&show_icons=true&theme=buefy)
+![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejin-eva&show_icons=true&theme=graywhite)
 
 
 <!--
