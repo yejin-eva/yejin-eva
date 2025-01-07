@@ -1,8 +1,7 @@
 # Hi there 👋
 
 <a href="https://www.notion.so/About-Me-c1c42421ff1e4c0cae1f0dd59649e37d?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> For more projects and explanations <br>
-<a href="https://www.youtube.com/watch?v=DUV6YE9AAIE" target="_blank"><img src="https://img.shields.io/badge/Explanation_Video-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a> For demonstration and explanation of developed game <br>
-<a href="https://www.youtube.com/watch?v=SqY8MXK_aIw" target="_blank"><img src="https://img.shields.io/badge/Demonstration_Video-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a> For demonstration of developed game <br>
+
 <a href="https://youtu.be/SLMIAWHcuYE" target="_blank"><img src="https://img.shields.io/badge/Web_Demonstration-302683?style=flat-square&logo=HTML5&logoColor=white"/></a> For demonstration of developed website
 
 ### Basic Information
@@ -11,7 +10,7 @@
 👶  1998. 12. 26 <br>
 👨‍🎓  Graduated Handong Global University (2018.03 ~ 2023.02 GPA 3.89) <br>
 🏫  Graduated Tien Shan International School (2007.02. ~ 2017.06 GPA: 4.0) <br>
-📚  Architecture, Urban Planning, (Minor)ICT Convergence <br>
+📚  Architecture, Urban Planning, (Minor) ICT Convergence <br>
 📐  Completed Architecture Specialized Course <br>
 🏙️  Completed Smart City Track <br>
 <br>
@@ -40,7 +39,7 @@
 > BIM Awards <br>
 > SEEBIM 학회 <br>
 > 2020년 산학프로젝트 성과 발표회 우수상 <br>
-> 서덕수교수님 연구원 <br>
+> 서덕수교수님 산하 연구원 <br>
 > BIM Camp 참여 & 1등 수상 <br>
 > HIA (Handong Institute of Architecture) 학회 <br>
 > 천풍해세 동아리 회장 <br>
