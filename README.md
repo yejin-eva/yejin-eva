@@ -8,6 +8,7 @@
 
 💙 Yejin Kim <br>
 👶  1998. 12. 26 <br>
+Client Programmer at ReLU Games, Krafton Inc.
 👨‍🎓  Graduated Handong Global University (2018.03 ~ 2023.02 GPA 3.89) <br>
 🏫  Graduated Tien Shan International School (2007.02. ~ 2017.06 GPA: 4.0) <br>
 📚  Architecture, Urban Planning, (Minor) ICT Convergence <br>
