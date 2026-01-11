@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<a href="https://www.notion.so/About-Me-c1c42421ff1e4c0cae1f0dd59649e37d?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> For more projects and explanations <br>
+<a href="https://factual-cabbage-46e.notion.site/Landing-Page-2e5262d75fc380269bbce84d5f734b35" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> For more projects and explanations <br>
 
 ### Basic Information
 
